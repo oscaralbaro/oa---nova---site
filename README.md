@@ -1,17 +1,7 @@
-# OA Nova — site institucional
+# OA Nova — Site Institucional v2
 
-Arquivos:
-- index.html
-- privacidade.html
-- termos.html
+Versão atualizada com identidade visual aprimorada, logotipo maior e proporcional, serviços, diferenciais, WhatsApp Business, e-mail profissional, políticas legais e dados empresariais.
 
-Publicação sugerida:
-1. Criar conta no GitHub.
-2. Criar um repositório público.
-3. Enviar estes três arquivos.
-4. Importar o repositório no Vercel.
-5. Conectar oanova.com.br ao projeto.
+Substitua no GitHub os arquivos antigos por estes quatro arquivos. O Vercel publicará automaticamente a nova versão após o commit.
 
-Antes da verificação final da Meta:
-- Substituir o Gmail por contato@oanova.com.br quando o encaminhamento de e-mail estiver funcionando.
-- Confirmar que o WhatsApp 55 11 95832-9165 está ativo.
+- Bloco de informações legais redesenhado em padrão institucional discreto.
