@@ -27,3 +27,7 @@ O Vercel fará o deploy automaticamente após o commit.
 
 - seção de contato refinada, sem emojis e sem informação redundante de WhatsApp Business;
 - apresentação mais corporativa de e-mail e localização.
+
+- botão flutuante de WhatsApp com ícone oficial;
+- balão de chamada discreto e profissional;
+- remoção do botão duplicado de WhatsApp no cabeçalho para reduzir poluição visual.
