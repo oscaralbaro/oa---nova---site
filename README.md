@@ -1,6 +1,6 @@
 # OA Nova — Site Institucional v3
 
-Versão profissional com:
+Versão 3.1 — correção estética e de identidade visual com:
 - logo ampliado e proporcional;
 - design corporativo e tecnológico;
 - botão de WhatsApp verde com ícone;
@@ -21,3 +21,6 @@ Substitua no GitHub os arquivos antigos por:
 - README.md
 
 O Vercel fará o deploy automaticamente após o commit.
+
+- ícone oficial do WhatsApp em todos os botões;
+- monograma OA branco e centralizado no painel principal.
