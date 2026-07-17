@@ -1,33 +1,14 @@
-# OA Nova — Site Institucional v3
+# OA Nova — Site Institucional V5.2
 
-Versão 3.1 — correção estética e de identidade visual com:
-- logo ampliado e proporcional;
-- design corporativo e tecnológico;
-- botão de WhatsApp verde com ícone;
-- texto branco de alto contraste;
-- página de contato;
-- footer legal corporativo;
-- e-mail profissional;
-- layout responsivo;
-- política de privacidade;
-- termos de uso.
+Atualização Premium Experience com:
+- novo badge corporativo sem linha horizontal;
+- logotipo OA refinado e mais consistente;
+- botões internos na identidade azul da OA Nova;
+- WhatsApp verde mantido apenas no botão flutuante;
+- seção de diferenciais redesenhada;
+- header compacto e dinâmico ao rolar;
+- animações e efeitos de profundidade aprimorados;
+- melhorias responsivas e de acessibilidade.
 
 ## Publicação
-Substitua no GitHub os arquivos antigos por:
-- index.html
-- privacidade.html
-- termos.html
-- contato.html
-- README.md
-
-O Vercel fará o deploy automaticamente após o commit.
-
-- ícone oficial do WhatsApp em todos os botões;
-- monograma OA branco e centralizado no painel principal.
-
-- seção de contato refinada, sem emojis e sem informação redundante de WhatsApp Business;
-- apresentação mais corporativa de e-mail e localização.
-
-- botão flutuante de WhatsApp com ícone oficial;
-- balão de chamada discreto e profissional;
-- remoção do botão duplicado de WhatsApp no cabeçalho para reduzir poluição visual.
+Substitua os arquivos antigos no repositório pelos arquivos desta pasta. O Vercel fará o deploy automaticamente após o commit.
