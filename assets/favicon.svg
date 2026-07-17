@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="OA Nova">
+  <defs>
+    <linearGradient id="bg" x1="22" y1="18" x2="230" y2="238" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1059d8"/>
+      <stop offset=".45" stop-color="#073c96"/>
+      <stop offset="1" stop-color="#03183f"/>
+    </linearGradient>
+    <linearGradient id="swoosh" x1="42" y1="201" x2="221" y2="124" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0643bc"/>
+      <stop offset=".52" stop-color="#1a8df0"/>
+      <stop offset="1" stop-color="#9be8ff"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#00122f" flood-opacity=".35"/>
+    </filter>
+  </defs>
+
+  <rect x="12" y="12" width="232" height="232" rx="62"
+        fill="url(#bg)" stroke="#1689ff" stroke-width="4.5" filter="url(#shadow)"/>
+
+  <!-- O completamente cerrada -->
+  <circle cx="91" cy="117" r="45"
+          fill="none" stroke="#fff" stroke-width="19"/>
+
+  <!-- A sin barra horizontal -->
+  <path d="M134 166 L177 66 L220 166"
+        fill="none" stroke="#fff" stroke-width="18"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- remate inferior derecho de la A -->
+  <path d="M205 145 L219 178"
+        fill="none" stroke="#fff" stroke-width="14"
+        stroke-linecap="round"/>
+
+  <!-- elemento de evolución / movimiento -->
+  <path d="M39 199 C84 166 132 145 220 126
+           C157 152 111 177 72 211 Z"
+        fill="url(#swoosh)"/>
+</svg>
