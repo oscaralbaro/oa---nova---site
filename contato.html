@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Contato | OA Nova</title>
   <style>
-    :root{--blue:#0B5CFF;--ink:#0B1320;--muted:#5B6678;--line:#E4E9F1;--soft:#F7F9FC;--wa:#25D366}
+    :root{--blue:#0B5CFF;--ink:#0B1320;--muted:#5B6678;--line:#E4E9F1;--soft:#F7F9FC;--wa:#0B5CFF}
     *{box-sizing:border-box}
     body{margin:0;font-family:Inter,system-ui,sans-serif;color:var(--ink);line-height:1.7;background:#fff}
     .wrap{width:min(92%,900px);margin:0 auto;padding:62px 0}
@@ -17,7 +17,7 @@
     .card{border:1px solid var(--line);border-radius:18px;padding:28px;background:var(--soft)}
     .card h2{margin-top:0}
     .button{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:850;border-radius:12px;padding:13px 18px;margin-top:12px}
-    .wa{background:var(--wa);color:#fff}
+    .wa{background:var(--wa);color:#fff;box-shadow:0 12px 28px rgba(11,92,255,.20);transition:.25s ease}.wa:hover{background:#0744BD;transform:translateY(-2px)}
     .wa-icon{width:20px;height:20px;display:block;object-fit:contain}
     @media(max-width:760px){.grid{grid-template-columns:1fr}}
   </style>
@@ -30,9 +30,9 @@
 
     <div class="grid">
       <section class="card">
-        <h2>WhatsApp Business</h2>
-        <p>Fale diretamente com a OA Nova pelo WhatsApp.</p>
-        <a class="button wa" href="https://wa.me/5511958329165" target="_blank" rel="noopener"><img class="wa-icon" src="https://cdn.simpleicons.org/whatsapp/FFFFFF" alt="" aria-hidden="true">Falar no WhatsApp</a>
+        <h2>Atendimento</h2>
+        <p>Converse diretamente com a equipe da OA Nova sobre seu projeto.</p>
+        <a class="button wa" href="https://wa.me/5511958329165" target="_blank" rel="noopener">Entrar em contato</a>
       </section>
 
       <section class="card">
