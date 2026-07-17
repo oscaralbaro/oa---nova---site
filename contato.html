@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato | OA Nova</title>
+  <style>
+    :root{--blue:#0B5CFF;--ink:#0B1320;--muted:#5B6678;--line:#E4E9F1;--soft:#F7F9FC;--wa:#25D366}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Inter,system-ui,sans-serif;color:var(--ink);line-height:1.7;background:#fff}
+    .wrap{width:min(92%,900px);margin:0 auto;padding:62px 0}
+    a{color:var(--blue)}
+    h1{font-size:clamp(2.5rem,5vw,3.8rem);letter-spacing:-.055em;line-height:1.06;margin-bottom:14px}
+    p{color:var(--muted)}
+    .back{display:inline-block;margin-bottom:28px;text-decoration:none;font-weight:800}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:34px}
+    .card{border:1px solid var(--line);border-radius:18px;padding:28px;background:var(--soft)}
+    .card h2{margin-top:0}
+    .button{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:850;border-radius:12px;padding:13px 18px;margin-top:12px}
+    .wa{background:var(--wa);color:#fff}
+    @media(max-width:760px){.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <a class="back" href="index.html">← Voltar para o site</a>
+    <h1>Entre em contato com a OA Nova.</h1>
+    <p>Atendimento online para empresas, empreendedores e projetos digitais.</p>
+
+    <div class="grid">
+      <section class="card">
+        <h2>WhatsApp Business</h2>
+        <p>Fale diretamente com a OA Nova pelo WhatsApp.</p>
+        <a class="button wa" href="https://wa.me/5511958329165" target="_blank" rel="noopener">Falar no WhatsApp</a>
+      </section>
+
+      <section class="card">
+        <h2>E-mail</h2>
+        <p>Envie sua mensagem para:</p>
+        <a href="mailto:contato@oanova.com.br">contato@oanova.com.br</a>
+      </section>
+    </div>
+
+    <div style="margin-top:34px;padding:22px;border-top:1px solid var(--line)">
+      OA Nova · CNPJ 41.852.380/0001-70 · São Paulo — SP — Brasil
+    </div>
+  </main>
+</body>
+</html>
