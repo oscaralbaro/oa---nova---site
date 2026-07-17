@@ -24,3 +24,6 @@ O Vercel fará o deploy automaticamente após o commit.
 
 - ícone oficial do WhatsApp em todos os botões;
 - monograma OA branco e centralizado no painel principal.
+
+- seção de contato refinada, sem emojis e sem informação redundante de WhatsApp Business;
+- apresentação mais corporativa de e-mail e localização.
